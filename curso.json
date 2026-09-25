@@ -1,0 +1,69 @@
+{
+  "id": "capcut-ia-v62",
+  "titulo": "CapCut para Criadores de Vídeo IA v6.2",
+  "titulo_html": "Dê sentido <em>a cada corte</em>",
+  "curso_curto": "CapCut para Criadores v6.2",
+  "kicker": "CapCut v6.2 · 6 módulos · 18 aulas",
+  "lead": "Organize clipes, escolha cortes, controle movimento e som, revise legendas e entregue um vídeo vertical conferido.",
+  "imagem_trilha": "assets/img/trilha.webp",
+  "alt_trilha": "Editora e professor organizam um convite para uma oficina de jardinagem.",
+  "rodape": "CapCut para Criadores v6.2 · INEMA.CLUB PRO · <a href=\"landing.html\">sobre o curso</a>",
+  "landing": "landing.html",
+  "glossario": true,
+  "modulos": [
+    {
+      "titulo": "Módulo 1 · Abra um projeto que você consegue reencontrar",
+      "resumo": "Organize fontes, reconheça a interface e monte uma primeira sequência vertical.",
+      "aulas": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "titulo": "Módulo 2 · Corte, duração e movimento",
+      "resumo": "Divida clipes, experimente congelamento e reversão, e controle aproximações com dois pontos.",
+      "aulas": [
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "titulo": "Módulo 3 · Fundo, máscara e velocidade",
+      "resumo": "Escolha o recorte adequado e experimente mudanças de tempo sem confundir o público.",
+      "aulas": [
+        7,
+        8,
+        9
+      ]
+    },
+    {
+      "titulo": "Módulo 4 · Texto, cor e efeitos",
+      "resumo": "Acrescente informação legível e acabamento consistente, mantendo a montagem compreensível.",
+      "aulas": [
+        10,
+        11,
+        12
+      ]
+    },
+    {
+      "titulo": "Módulo 5 · Voz, pulso e legendas",
+      "resumo": "Organize som, experimente cortes no ritmo e revise texto sincronizado com a fala.",
+      "aulas": [
+        13,
+        14,
+        15
+      ]
+    },
+    {
+      "titulo": "Módulo 6 · Finalize e entregue um arquivo conferido",
+      "resumo": "Revise a montagem completa, exporte com parâmetros claros e prepare uma publicação responsável.",
+      "aulas": [
+        16,
+        17,
+        18
+      ]
+    }
+  ]
+}

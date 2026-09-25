@@ -1,0 +1,938 @@
+[
+  {
+    "titulo": "Prepare a bancada de edição",
+    "entrega": "abrir um projeto e importar quatro clipes organizados",
+    "dor": "Um projeto perdido ou uma fonte movida pode interromper a edição. Comece pequeno e preserve os arquivos.",
+    "antes": "Editar arquivos espalhados e mover a pasta no meio do trabalho.",
+    "depois": "Guardar fontes numa pasta estável e confirmar que o projeto reabre.",
+    "campos": [
+      "Fontes: quatro clipes do kit",
+      "Projeto: Verde Perto",
+      "Teste: fechar a tela do projeto e reabrir"
+    ],
+    "passos": [
+      "Baixe e extraia o kit. Abra cada clipe para conferir que ele funciona.",
+      "Crie Verde Perto no CapCut e importe os quatro arquivos de vídeo.",
+      "Volte à tela inicial e reabra o projeto. Registre onde ficaram as fontes."
+    ],
+    "molde": "Projeto: Verde Perto\nAula: Prepare a bancada de edição\nFontes: quatro clipes do kit — <sua decisão>\nProjeto: Verde Perto — <sua decisão>\nTeste: fechar a tela do projeto e reabrir — <sua decisão>\nArquivo ou projeto conferido: <nome real>\nAjuste necessário: <descreva ou nenhum>",
+    "pronto": "o projeto reabre e mostra os quatro arquivos importados",
+    "confira": "Guardar fontes numa pasta estável e confirmar que o projeto reabre.",
+    "calma": "Se não conseguir abrir o editor, mantenha esta prática pendente. Ler o caminho não substitui reabrir o projeto.",
+    "q": "O editor informa que uma fonte está ausente. Qual é o primeiro passo?",
+    "opcoes": [
+      "Localizar o arquivo original e reconectar a fonte",
+      "Exportar a prévia sem conferir qual clipe está ausente",
+      "Importar outro arquivo parecido e manter todos os cortes"
+    ],
+    "correta": 0,
+    "observacao": "Nanda e Jorge organizam cartões de quatro cenas numa bancada. A cena ilustra preparação; não reproduz a interface do CapCut.",
+    "ex1": "Nanda mantém o kit original separado das versões exportadas.",
+    "ex2": "Jorge anota a pasta para encontrá-la sem depender da memória.",
+    "tarefa": "Prepare a bancada de edição",
+    "resumo": [
+      "Fontes: quatro clipes do kit",
+      "Projeto: Verde Perto",
+      "Teste: fechar a tela do projeto e reabrir"
+    ],
+    "tempo_pratica": "Reserve cerca de 10 minutos de trabalho ativo para este recorte. Processamento fica fora desse tempo.",
+    "cartoes": [
+      [
+        "O editor informa que uma fonte está ausente. Qual é o primeiro passo?",
+        "Localizar o arquivo original e reconectar a fonte"
+      ],
+      [
+        "Qual decisão orienta esta etapa?",
+        "Guardar fontes numa pasta estável e confirmar que o projeto reabre."
+      ],
+      [
+        "Qual evidência encerra a prática?",
+        "o projeto reabre e mostra os quatro arquivos importados"
+      ]
+    ]
+  },
+  {
+    "titulo": "Reconheça mídia, prévia e linha do tempo",
+    "entrega": "localizar as áreas usadas para selecionar e ajustar um clipe",
+    "dor": "Alterar o objeto errado costuma parecer defeito do programa. Confira a seleção antes de mexer no painel.",
+    "antes": "Procurar controles de imagem enquanto uma faixa de áudio está selecionada.",
+    "depois": "Selecionar o objeto desejado e conferir a prévia depois de cada ajuste.",
+    "campos": [
+      "Biblioteca: arquivos disponíveis",
+      "Prévia: resultado no ponto atual",
+      "Linha do tempo: ordem, camadas e duração"
+    ],
+    "passos": [
+      "Arraste cena-1 para a linha do tempo e selecione o clipe.",
+      "Coloque cena-2 acima, reduza sua escala e observe a sobreposição.",
+      "Desfaça o teste. Organize os dois clipes lado a lado e reproduza."
+    ],
+    "molde": "Projeto: Verde Perto\nAula: Reconheça mídia, prévia e linha do tempo\nBiblioteca: arquivos disponíveis — <sua decisão>\nPrévia: resultado no ponto atual — <sua decisão>\nLinha do tempo: ordem, camadas e duração — <sua decisão>\nArquivo ou projeto conferido: <nome real>\nAjuste necessário: <descreva ou nenhum>",
+    "pronto": "você identifica as três áreas e conferiu uma sobreposição desfeita",
+    "confira": "Selecionar o objeto desejado e conferir a prévia depois de cada ajuste.",
+    "calma": "Se o painel estiver recolhido, selecione o clipe e procure Vídeo ou Propriedades. Não altere outros itens por tentativa.",
+    "q": "Os controles de texto aparecem quando você quer redimensionar o vaso. O que conferir?",
+    "opcoes": [
+      "Alterar a escala do título para alcançar o vaso",
+      "Se o clipe de vídeo correto está selecionado",
+      "Criar outro texto para liberar os controles de vídeo"
+    ],
+    "correta": 1,
+    "observacao": "A pilha representa a biblioteca; a moldura em pé representa a prévia; a fila de cartões representa a linha do tempo. É uma analogia, sem posição exata dos botões.",
+    "ex1": "Nanda seleciona o vídeo antes de alterar a escala.",
+    "ex2": "Jorge usa uma sobreposição curta para entender qual camada fica na frente.",
+    "tarefa": "Reconheça mídia, prévia e linha do tempo",
+    "resumo": [
+      "Biblioteca: arquivos disponíveis",
+      "Prévia: resultado no ponto atual",
+      "Linha do tempo: ordem, camadas e duração"
+    ],
+    "tempo_pratica": "Reserve cerca de 10 minutos de trabalho ativo para este recorte. Processamento fica fora desse tempo.",
+    "cartoes": [
+      [
+        "Os controles de texto aparecem quando você quer redimensionar o vaso. O que conferir?",
+        "Se o clipe de vídeo correto está selecionado"
+      ],
+      [
+        "Qual decisão orienta esta etapa?",
+        "Selecionar o objeto desejado e conferir a prévia depois de cada ajuste."
+      ],
+      [
+        "Qual evidência encerra a prática?",
+        "você identifica as três áreas e conferiu uma sobreposição desfeita"
+      ]
+    ]
+  },
+  {
+    "titulo": "Monte vinte segundos em 9:16",
+    "entrega": "organizar quatro planos num quadro vertical sem faixas vazias",
+    "dor": "Uma imagem vertical pode ficar pequena num projeto horizontal. Defina o quadro antes dos detalhes.",
+    "antes": "Esticar um plano horizontal até o vaso parecer estreito.",
+    "depois": "Preencher o quadro mantendo proporções e verificando o assunto no trecho inteiro.",
+    "campos": [
+      "Quadro: 9:16",
+      "Sequência: quatro planos, cerca de 20 segundos",
+      "Saída planejada: 1080 × 1920, 30 quadros por segundo"
+    ],
+    "passos": [
+      "Selecione a proporção 9:16 e alinhe os quatro clipes sem espaços vazios.",
+      "Reproduza a sequência e confira bordas, ordem e duração.",
+      "Clique em Exportar. Escolha nome e pasta; confira MP4, 1080p e 30 quadros por segundo quando disponíveis. Aguarde e abra o arquivo. Resolva avisos de cobrança antes de continuar."
+    ],
+    "molde": "Projeto: Verde Perto\nAula: Monte vinte segundos em 9:16\nQuadro: 9:16 — <sua decisão>\nSequência: quatro planos, cerca de 20 segundos — <sua decisão>\nSaída planejada: 1080 × 1920, 30 quadros por segundo — <sua decisão>\nArquivo ou projeto conferido: <nome real>\nAjuste necessário: <descreva ou nenhum>",
+    "pronto": "a sequência vertical roda sem espaços vazios e existe uma exportação de teste",
+    "confira": "Preencher o quadro mantendo proporções e verificando o assunto no trecho inteiro.",
+    "calma": "Se a exportação de teste não terminar, a prática continua pendente. Resolva o aviso antes de investir em efeitos.",
+    "q": "Como adaptar um plano horizontal preservando a aparência do vaso?",
+    "opcoes": [
+      "Esticar a imagem nas duas direções até preencher o quadro",
+      "Ampliar o plano e aprovar sem conferir as bordas",
+      "Recortar e reposicionar sem deformar as proporções"
+    ],
+    "correta": 2,
+    "observacao": "Uma moldura vertical destaca um vaso, enquanto a moldura horizontal mostra mais espaço. O desenho explica recorte, não uma configuração medida.",
+    "ex1": "Nanda aceita perder uma borda vazia para preservar o vaso.",
+    "ex2": "Jorge confere a ponta das folhas no início e no fim do plano.",
+    "tarefa": "Monte vinte segundos em 9:16",
+    "resumo": [
+      "Quadro: 9:16",
+      "Sequência: quatro planos, cerca de 20 segundos",
+      "Saída planejada: 1080 × 1920, 30 quadros por segundo"
+    ],
+    "tempo_pratica": "Reserve cerca de 10 minutos de trabalho ativo para este recorte. Processamento fica fora desse tempo.",
+    "cartoes": [
+      [
+        "Como adaptar um plano horizontal preservando a aparência do vaso?",
+        "Recortar e reposicionar sem deformar as proporções"
+      ],
+      [
+        "Qual decisão orienta esta etapa?",
+        "Preencher o quadro mantendo proporções e verificando o assunto no trecho inteiro."
+      ],
+      [
+        "Qual evidência encerra a prática?",
+        "a sequência vertical roda sem espaços vazios e existe uma exportação de teste"
+      ]
+    ]
+  },
+  {
+    "titulo": "Corte com intenção e preserve a fonte",
+    "entrega": "dividir e encurtar um trecho sem apagar o arquivo original",
+    "dor": "Cortar por impulso pode deixar uma frase ou um gesto sem conclusão. Escolha o ponto antes de excluir.",
+    "antes": "Apagar um trecho e presumir que todas as camadas acompanharam.",
+    "depois": "Reproduzir a passagem e conferir imagem, texto e áudio depois do corte.",
+    "campos": [
+      "Ponto: indicador na posição desejada",
+      "Ação: dividir ou aparar borda",
+      "Revisão: passagem e sincronismo"
+    ],
+    "passos": [
+      "Duplique o projeto ou guarde uma versão antes de cortar.",
+      "Divida cena-2 após dois segundos e retire a parte final. Feche o espaço se necessário.",
+      "Reproduza a passagem. Use Desfazer até recuperar o trecho excluído e conferir a duração anterior. Reaplique o corte e reproduza novamente."
+    ],
+    "molde": "Projeto: Verde Perto\nAula: Corte com intenção e preserve a fonte\nPonto: indicador na posição desejada — <sua decisão>\nAção: dividir ou aparar borda — <sua decisão>\nRevisão: passagem e sincronismo — <sua decisão>\nArquivo ou projeto conferido: <nome real>\nAjuste necessário: <descreva ou nenhum>",
+    "pronto": "um corte foi aplicado, conferido e recuperado com Desfazer",
+    "confira": "Reproduzir a passagem e conferir imagem, texto e áudio depois do corte.",
+    "calma": "Treine em uma cópia. Se perder a referência, use Desfazer e retorne ao último ponto conferido.",
+    "q": "Depois de excluir um trecho, o título aparece na cena errada. O que fazer?",
+    "opcoes": [
+      "Conferir o alinhamento do título e das outras camadas",
+      "Mover só o vídeo e presumir que a legenda acompanha",
+      "Apagar o título e recriá-lo sem conferir o instante"
+    ],
+    "correta": 0,
+    "observacao": "Uma tira de quatro imagens tem um corte marcado. O esquema representa a decisão de montagem e a preservação da fonte.",
+    "ex1": "Nanda corta a parte que repete uma informação.",
+    "ex2": "Jorge reproduz a passagem em vez de julgar apenas pelas miniaturas.",
+    "tarefa": "Corte com intenção e preserve a fonte",
+    "resumo": [
+      "Ponto: indicador na posição desejada",
+      "Ação: dividir ou aparar borda",
+      "Revisão: passagem e sincronismo"
+    ],
+    "tempo_pratica": "Reserve cerca de 10 minutos de trabalho ativo para este recorte. Processamento fica fora desse tempo.",
+    "cartoes": [
+      [
+        "Depois de excluir um trecho, o título aparece na cena errada. O que fazer?",
+        "Conferir o alinhamento do título e das outras camadas"
+      ],
+      [
+        "Qual decisão orienta esta etapa?",
+        "Reproduzir a passagem e conferir imagem, texto e áudio depois do corte."
+      ],
+      [
+        "Qual evidência encerra a prática?",
+        "um corte foi aplicado, conferido e recuperado com Desfazer"
+      ]
+    ]
+  },
+  {
+    "titulo": "Use congelamento e reversão com motivo",
+    "entrega": "criar duas variações curtas e escolher uma pela função",
+    "dor": "Um efeito temporal pode chamar atenção e também confundir a ação. Compare antes de incorporá-lo.",
+    "antes": "Inverter qualquer ação porque o movimento parece diferente.",
+    "depois": "Usar a mudança temporal quando ela ajuda a leitura e não falsifica uma demonstração.",
+    "campos": [
+      "Congelamento: pausa com duração definida",
+      "Reversão: direção conferida na reprodução",
+      "Escolha: função do efeito registrada"
+    ],
+    "passos": [
+      "Crie uma cópia curta de cena-3 e adicione um congelamento de cerca de um segundo.",
+      "Em outra cópia, teste Reverter e aguarde o resultado.",
+      "Reproduza as duas versões. Registre qual ajuda o convite, ou mantenha o original se nenhuma ajudar. Retire o teste que não será usado."
+    ],
+    "molde": "Projeto: Verde Perto\nAula: Use congelamento e reversão com motivo\nCongelamento: pausa com duração definida — <sua decisão>\nReversão: direção conferida na reprodução — <sua decisão>\nEscolha: função do efeito registrada — <sua decisão>\nArquivo ou projeto conferido: <nome real>\nAjuste necessário: <descreva ou nenhum>",
+    "pronto": "as duas variações foram reproduzidas e uma decisão foi registrada",
+    "confira": "Usar a mudança temporal quando ela ajuda a leitura e não falsifica uma demonstração.",
+    "calma": "Se o comando não estiver disponível, mantenha o teste correspondente pendente e siga com a versão sem efeito.",
+    "q": "O congelamento deve permanecer quando ele faz qual trabalho?",
+    "opcoes": [
+      "Alongar qualquer plano mesmo quando não há informação nova",
+      "Dar tempo para ler sem parecer uma falha da reprodução",
+      "Parar a imagem sempre que ocorrer uma troca de música"
+    ],
+    "correta": 1,
+    "observacao": "Uma sequência mostra aproximação, pausa e afastamento como movimentos distintos. São conceitos de edição aplicados a uma imagem.",
+    "ex1": "Nanda usa uma pausa somente onde existe informação para ler.",
+    "ex2": "Jorge percebe que a reversão do kit muda a aproximação, não o estado da planta.",
+    "tarefa": "Use congelamento e reversão com motivo",
+    "resumo": [
+      "Congelamento: pausa com duração definida",
+      "Reversão: direção conferida na reprodução",
+      "Escolha: função do efeito registrada"
+    ],
+    "tempo_pratica": "Reserve cerca de 10 minutos de trabalho ativo para este recorte. Processamento fica fora desse tempo.",
+    "cartoes": [
+      [
+        "O congelamento deve permanecer quando ele faz qual trabalho?",
+        "Dar tempo para ler sem parecer uma falha da reprodução"
+      ],
+      [
+        "Qual decisão orienta esta etapa?",
+        "Usar a mudança temporal quando ela ajuda a leitura e não falsifica uma demonstração."
+      ],
+      [
+        "Qual evidência encerra a prática?",
+        "as duas variações foram reproduzidas e uma decisão foi registrada"
+      ]
+    ]
+  },
+  {
+    "titulo": "Controle um zoom com dois pontos",
+    "entrega": "criar uma mudança gradual de escala e conferir o enquadramento",
+    "dor": "Um zoom pronto pode cortar o assunto ou terminar cedo demais. Dois pontos permitem controlar início e fim.",
+    "antes": "Aumentar a escala em vários lugares sem conferir os marcadores.",
+    "depois": "Criar dois estados claros e assistir ao intervalo inteiro antes de ajustar a intensidade.",
+    "campos": [
+      "Estado inicial: escala e ponto guardados",
+      "Estado final: pequena aproximação",
+      "Revisão: assunto dentro do quadro"
+    ],
+    "passos": [
+      "Importe uma imagem estática do kit e dê cerca de cinco segundos a ela.",
+      "Crie um quadro-chave de escala no início e outro perto do fim, com aumento pequeno.",
+      "Reproduza e confira a diferença. Reduza o aumento se alguma parte importante sair do quadro."
+    ],
+    "molde": "Projeto: Verde Perto\nAula: Controle um zoom com dois pontos\nEstado inicial: escala e ponto guardados — <sua decisão>\nEstado final: pequena aproximação — <sua decisão>\nRevisão: assunto dentro do quadro — <sua decisão>\nArquivo ou projeto conferido: <nome real>\nAjuste necessário: <descreva ou nenhum>",
+    "pronto": "uma imagem tem dois pontos de escala e a aproximação foi conferida",
+    "confira": "Criar dois estados claros e assistir ao intervalo inteiro antes de ajustar a intensidade.",
+    "calma": "Comece com escala somente. Acrescente posição depois que o movimento básico estiver funcionando.",
+    "q": "Qual evidência confirma que a escala foi guardada para mudar ao longo do tempo?",
+    "opcoes": [
+      "Um único valor final foi aplicado ao clipe inteiro",
+      "A prévia foi ampliada sem guardar estados no clipe",
+      "Os dois quadros-chave existem em instantes diferentes"
+    ],
+    "correta": 2,
+    "observacao": "Dois enquadramentos do vaso mostram o começo e o fim de uma aproximação. O esquema não representa movimento de câmera filmado.",
+    "ex1": "Nanda isola o teste numa foto para não somar dois movimentos.",
+    "ex2": "Jorge usa os losangos como evidência de que guardou dois estados.",
+    "tarefa": "Controle um zoom com dois pontos",
+    "resumo": [
+      "Estado inicial: escala e ponto guardados",
+      "Estado final: pequena aproximação",
+      "Revisão: assunto dentro do quadro"
+    ],
+    "tempo_pratica": "Reserve cerca de 10 minutos de trabalho ativo para este recorte. Processamento fica fora desse tempo.",
+    "cartoes": [
+      [
+        "Qual evidência confirma que a escala foi guardada para mudar ao longo do tempo?",
+        "Os dois quadros-chave existem em instantes diferentes"
+      ],
+      [
+        "Qual decisão orienta esta etapa?",
+        "Criar dois estados claros e assistir ao intervalo inteiro antes de ajustar a intensidade."
+      ],
+      [
+        "Qual evidência encerra a prática?",
+        "uma imagem tem dois pontos de escala e a aproximação foi conferida"
+      ]
+    ]
+  },
+  {
+    "titulo": "Escolha entre cor, remoção e recorte",
+    "entrega": "comparar caminhos de separação do assunto e registrar o limite",
+    "dor": "Recortar folhas ou cabelos finos pode produzir bordas ruins. A opção automática precisa de inspeção.",
+    "antes": "Remover o fundo e aprovar pela miniatura pequena.",
+    "depois": "Avaliar bordas sobre contraste e manter a imagem inteira quando o recorte prejudica o assunto.",
+    "campos": [
+      "Fonte: fundo uniforme ou variado",
+      "Método: cor, automático ou imagem inteira",
+      "Revisão: folhas, vãos, sombra e estabilidade"
+    ],
+    "passos": [
+      "Duplique um trecho do kit e coloque uma cor contrastante na camada inferior.",
+      "Teste a remoção disponível. Se não houver recurso adequado, compare o plano inteiro com um recorte simples de enquadramento.",
+      "Reproduza e registre bordas boas, defeitos ou ausência de defeitos observados. Escolha o caminho utilizável."
+    ],
+    "molde": "Projeto: Verde Perto\nAula: Escolha entre cor, remoção e recorte\nFonte: fundo uniforme ou variado — <sua decisão>\nMétodo: cor, automático ou imagem inteira — <sua decisão>\nRevisão: folhas, vãos, sombra e estabilidade — <sua decisão>\nArquivo ou projeto conferido: <nome real>\nAjuste necessário: <descreva ou nenhum>",
+    "pronto": "uma escolha viável de fundo tem motivo e revisão registrados",
+    "confira": "Avaliar bordas sobre contraste e manter a imagem inteira quando o recorte prejudica o assunto.",
+    "calma": "Registrar imagem inteira é uma decisão válida nesta aula. Não registre uma remoção como feita se ela não ocorreu.",
+    "q": "As folhas verdes somem junto de um fundo verde. Qual explicação faz sentido?",
+    "opcoes": [
+      "A cor escolhida para remoção também existe no assunto",
+      "A remoção reconhece o nome da planta e elimina suas folhas",
+      "A cor do assunto nunca participa da seleção do fundo"
+    ],
+    "correta": 0,
+    "observacao": "Folhas e fundo aparecem como peças separadas com bordas visíveis. É uma metáfora para examinar recortes, não prova de remoção automática perfeita.",
+    "ex1": "Nanda evita chroma key quando a cor do fundo também aparece na planta.",
+    "ex2": "Jorge prefere o plano inteiro quando a separação elimina folhas.",
+    "tarefa": "Escolha entre cor, remoção e recorte",
+    "resumo": [
+      "Fonte: fundo uniforme ou variado",
+      "Método: cor, automático ou imagem inteira",
+      "Revisão: folhas, vãos, sombra e estabilidade"
+    ],
+    "tempo_pratica": "Reserve cerca de 10 minutos de trabalho ativo para este recorte. Processamento fica fora desse tempo.",
+    "cartoes": [
+      [
+        "As folhas verdes somem junto de um fundo verde. Qual explicação faz sentido?",
+        "A cor escolhida para remoção também existe no assunto"
+      ],
+      [
+        "Qual decisão orienta esta etapa?",
+        "Avaliar bordas sobre contraste e manter a imagem inteira quando o recorte prejudica o assunto."
+      ],
+      [
+        "Qual evidência encerra a prática?",
+        "uma escolha viável de fundo tem motivo e revisão registrados"
+      ]
+    ]
+  },
+  {
+    "titulo": "Use máscara para revelar uma parte",
+    "entrega": "montar uma janela visual com borda controlada",
+    "dor": "Máscara e remoção de fundo resolvem problemas diferentes. Uma forma geométrica pode bastar para a comparação.",
+    "antes": "Aplicar uma forma e esperar que ela siga todas as folhas.",
+    "depois": "Posicionar uma janela simples e ajustar a borda pela leitura no quadro final.",
+    "campos": [
+      "Camada superior: região revelada",
+      "Forma: posição e tamanho",
+      "Borda: contraste e suavidade"
+    ],
+    "passos": [
+      "Sobreponha cena-3 a cena-1 numa cópia do projeto.",
+      "Aplique uma máscara simples à camada superior e posicione a janela sem cobrir o vaso principal.",
+      "Ajuste a borda e reproduza. Registre a diferença entre máscara e separação automática."
+    ],
+    "molde": "Projeto: Verde Perto\nAula: Use máscara para revelar uma parte\nCamada superior: região revelada — <sua decisão>\nForma: posição e tamanho — <sua decisão>\nBorda: contraste e suavidade — <sua decisão>\nArquivo ou projeto conferido: <nome real>\nAjuste necessário: <descreva ou nenhum>",
+    "pronto": "uma janela mascarada foi reproduzida sem esconder o assunto principal",
+    "confira": "Posicionar uma janela simples e ajustar a borda pela leitura no quadro final.",
+    "calma": "Se a borda parecer confusa, retire a suavização e volte a uma forma simples. Mais efeitos não resolvem falta de espaço.",
+    "q": "O que uma máscara circular faz neste exercício?",
+    "opcoes": [
+      "Separa automaticamente o objeto inteiro pela sua identidade",
+      "Revela uma área definida pela forma e pela posição",
+      "Muda o enquadramento de todas as camadas do projeto"
+    ],
+    "correta": 1,
+    "observacao": "Uma janela circular mostra um detalhe de folha sobre um plano aberto. A imagem ilustra seleção de área, sem simular uma captura do editor.",
+    "ex1": "Nanda usa uma janela para comparar escalas de observação.",
+    "ex2": "Jorge mantém a janela afastada do convite escrito.",
+    "tarefa": "Use máscara para revelar uma parte",
+    "resumo": [
+      "Camada superior: região revelada",
+      "Forma: posição e tamanho",
+      "Borda: contraste e suavidade"
+    ],
+    "tempo_pratica": "Reserve cerca de 10 minutos de trabalho ativo para este recorte. Processamento fica fora desse tempo.",
+    "cartoes": [
+      [
+        "O que uma máscara circular faz neste exercício?",
+        "Revela uma área definida pela forma e pela posição"
+      ],
+      [
+        "Qual decisão orienta esta etapa?",
+        "Posicionar uma janela simples e ajustar a borda pela leitura no quadro final."
+      ],
+      [
+        "Qual evidência encerra a prática?",
+        "uma janela mascarada foi reproduzida sem esconder o assunto principal"
+      ]
+    ]
+  },
+  {
+    "titulo": "Mude a velocidade sem perder o sentido",
+    "entrega": "comparar velocidade constante e variação num trecho curto",
+    "dor": "Acelerar tudo pode encurtar o vídeo e destruir sua intenção. O assunto precisa continuar compreensível.",
+    "antes": "Acelerar todos os planos e ignorar a fala que ficou cortada.",
+    "depois": "Usar uma mudança de tempo pequena e revisar duração, movimento e sincronismo.",
+    "campos": [
+      "Versão A: velocidade constante",
+      "Versão B: variação curta",
+      "Revisão: duração e clareza"
+    ],
+    "passos": [
+      "Duplique cena-1 e teste uma velocidade constante diferente.",
+      "Na segunda cópia, teste uma curva simples se disponível; senão, divida em três trechos e varie apenas o meio.",
+      "Reproduza as duas versões e registre qual preserva melhor a leitura do vaso."
+    ],
+    "molde": "Projeto: Verde Perto\nAula: Mude a velocidade sem perder o sentido\nVersão A: velocidade constante — <sua decisão>\nVersão B: variação curta — <sua decisão>\nRevisão: duração e clareza — <sua decisão>\nArquivo ou projeto conferido: <nome real>\nAjuste necessário: <descreva ou nenhum>",
+    "pronto": "duas variações de tempo foram reproduzidas e comparadas",
+    "confira": "Usar uma mudança de tempo pequena e revisar duração, movimento e sincronismo.",
+    "calma": "Se não houver curva personalizada, três partes com velocidades diferentes permitem entender o princípio. A passagem pode ficar mais abrupta.",
+    "q": "Após acelerar o plano, qual revisão é necessária?",
+    "opcoes": [
+      "Manter todos os tempos de texto sem reproduzir a mudança",
+      "Alongar a música inteira antes de conferir o corte",
+      "Conferir a nova duração e o alinhamento das outras faixas"
+    ],
+    "correta": 2,
+    "observacao": "A faixa tem pontos esparsos, densos e esparsos: uma metáfora para normal, rápido e normal. Os pontos não medem quadros; a imagem não mostra uma curva do editor.",
+    "ex1": "Nanda cria uma mudança curta para comparar, sem alterar o projeto inteiro.",
+    "ex2": "Jorge percebe que a nova duração muda o ponto de entrada do título.",
+    "tarefa": "Mude a velocidade sem perder o sentido",
+    "resumo": [
+      "Versão A: velocidade constante",
+      "Versão B: variação curta",
+      "Revisão: duração e clareza"
+    ],
+    "tempo_pratica": "Reserve cerca de 10 minutos de trabalho ativo para este recorte. Processamento fica fora desse tempo.",
+    "cartoes": [
+      [
+        "Após acelerar o plano, qual revisão é necessária?",
+        "Conferir a nova duração e o alinhamento das outras faixas"
+      ],
+      [
+        "Qual decisão orienta esta etapa?",
+        "Usar uma mudança de tempo pequena e revisar duração, movimento e sincronismo."
+      ],
+      [
+        "Qual evidência encerra a prática?",
+        "duas variações de tempo foram reproduzidas e comparadas"
+      ]
+    ]
+  },
+  {
+    "titulo": "Diferencie transição, animação e efeito",
+    "entrega": "escolher um único recurso visual com função clara",
+    "dor": "Três recursos empilhados podem esconder o que a cena queria mostrar. Separe suas funções antes de escolher.",
+    "antes": "Adicionar tremor, giro e dissolução para parecer uma edição complexa.",
+    "depois": "Comparar um recurso por vez e manter somente o que melhora a compreensão.",
+    "campos": [
+      "Transição: entre dois planos",
+      "Animação: comportamento de um item",
+      "Efeito: aparência durante um trecho"
+    ],
+    "passos": [
+      "Compare corte direto e uma transição simples entre dois planos.",
+      "Em Texto, adicione um texto padrão provisório e teste sua entrada em Animação. Numa cópia de clipe, abra Efeitos e aplique uma opção breve.",
+      "Compare os testes e mantenha somente o que tem função clara. Pode retirar todos com justificativa. Reproduza a passagem escolhida."
+    ],
+    "molde": "Projeto: Verde Perto\nAula: Diferencie transição, animação e efeito\nTransição: entre dois planos — <sua decisão>\nAnimação: comportamento de um item — <sua decisão>\nEfeito: aparência durante um trecho — <sua decisão>\nArquivo ou projeto conferido: <nome real>\nAjuste necessário: <descreva ou nenhum>",
+    "pronto": "você testou as três funções e justificou o que manteve ou retirou",
+    "confira": "Comparar um recurso por vez e manter somente o que melhora a compreensão.",
+    "calma": "Se a montagem funciona sem efeito, essa é uma conclusão útil. A prática mede escolha, não quantidade de recursos.",
+    "q": "Qual exemplo é uma transição?",
+    "opcoes": [
+      "Uma passagem visual conecta o fim e o começo de dois planos",
+      "Um título aparece gradualmente no começo de sua faixa",
+      "Um filtro aquece a aparência durante um plano inteiro"
+    ],
+    "correta": 0,
+    "observacao": "Analogia: fotos sobrepostas lembram a passagem entre planos; cartões verdes representam um item que poderia entrar; a foto quente representa aparência. A figura estática não demonstra movimento.",
+    "ex1": "Nanda prefere corte direto quando os planos já se conectam.",
+    "ex2": "Jorge retira um adesivo que cobria a planta sem acrescentar informação.",
+    "tarefa": "Diferencie transição, animação e efeito",
+    "resumo": [
+      "Transição: entre dois planos",
+      "Animação: comportamento de um item",
+      "Efeito: aparência durante um trecho"
+    ],
+    "tempo_pratica": "Reserve cerca de 10 minutos de trabalho ativo para este recorte. Processamento fica fora desse tempo.",
+    "cartoes": [
+      [
+        "Qual exemplo é uma transição?",
+        "Uma passagem visual conecta o fim e o começo de dois planos"
+      ],
+      [
+        "Qual decisão orienta esta etapa?",
+        "Comparar um recurso por vez e manter somente o que melhora a compreensão."
+      ],
+      [
+        "Qual evidência encerra a prática?",
+        "você testou as três funções e justificou o que manteve ou retirou"
+      ]
+    ]
+  },
+  {
+    "titulo": "Escreva um convite legível no celular",
+    "entrega": "criar título e chamada final que sobrevivem ao quadro pequeno",
+    "dor": "Um texto pode caber na tela grande e ficar ilegível no celular. Edite a mensagem junto com sua apresentação.",
+    "antes": "Encolher a letra até um parágrafo inteiro caber no canto.",
+    "depois": "Encurtar a mensagem e testar contraste, duração e posição no celular.",
+    "campos": [
+      "Título: uma mensagem curta",
+      "Posição: margem dos controles do destino",
+      "Teste: leitura sem pausar"
+    ],
+    "passos": [
+      "Crie um título e uma chamada final em faixas de texto separadas.",
+      "Ajuste contraste, duração e margens. Duplique o estilo quando fizer sentido.",
+      "Exporte um teste curto e leia no celular ou numa prévia reduzida. Corrija uma dificuldade observada."
+    ],
+    "molde": "Projeto: Verde Perto\nAula: Escreva um convite legível no celular\nTítulo: uma mensagem curta — <sua decisão>\nPosição: margem dos controles do destino — <sua decisão>\nTeste: leitura sem pausar — <sua decisão>\nArquivo ou projeto conferido: <nome real>\nAjuste necessário: <descreva ou nenhum>",
+    "pronto": "os dois textos foram conferidos em tamanho reduzido e têm duração legível",
+    "confira": "Encurtar a mensagem e testar contraste, duração e posição no celular.",
+    "calma": "Sem celular disponível, reduza a prévia como teste inicial. Faça a conferência no aparelho antes da entrega final.",
+    "q": "A frase só pode ser lida quando o vídeo está pausado. Qual ajuste merece teste?",
+    "opcoes": [
+      "Diminuir mais a letra sem alterar o tempo disponível",
+      "Encurtar a frase ou deixá-la visível por mais tempo",
+      "Acelerar a entrada do título e manter a frase longa"
+    ],
+    "correta": 1,
+    "observacao": "Título e convite aparecem juntos como amostra de estilo. Na prática, você os separa no tempo. A figura não comprova uma área segura da plataforma.",
+    "ex1": "Nanda encurta a chamada em vez de reduzir demais a letra.",
+    "ex2": "Jorge consegue ler o convite durante a reprodução normal.",
+    "tarefa": "Escreva um convite legível no celular",
+    "resumo": [
+      "Título: uma mensagem curta",
+      "Posição: margem dos controles do destino",
+      "Teste: leitura sem pausar"
+    ],
+    "tempo_pratica": "Reserve cerca de 10 minutos de trabalho ativo para este recorte. Processamento fica fora desse tempo.",
+    "cartoes": [
+      [
+        "A frase só pode ser lida quando o vídeo está pausado. Qual ajuste merece teste?",
+        "Encurtar a frase ou deixá-la visível por mais tempo"
+      ],
+      [
+        "Qual decisão orienta esta etapa?",
+        "Encurtar a mensagem e testar contraste, duração e posição no celular."
+      ],
+      [
+        "Qual evidência encerra a prática?",
+        "os dois textos foram conferidos em tamanho reduzido e têm duração legível"
+      ]
+    ]
+  },
+  {
+    "titulo": "Ajuste a cor preservando a planta",
+    "entrega": "aproximar dois planos sem exagerar no filtro",
+    "dor": "Um filtro forte pode unir a aparência e apagar detalhes. Compare os planos antes de escolher o acabamento.",
+    "antes": "Aplicar saturação máxima porque as plantas precisam parecer vivas.",
+    "depois": "Comparar ligado e desligado preservando textura, luz e diferenciação das folhas.",
+    "campos": [
+      "Correção: exposição e cor coerentes",
+      "Estilo: intensidade controlada",
+      "Revisão: folhas e textura preservadas"
+    ],
+    "passos": [
+      "Escolha dois planos e compare brilho, temperatura e saturação.",
+      "Ajuste uma diferença evidente e teste um filtro leve ou uma camada de ajuste disponível.",
+      "Alterne antes e depois. Registre o que melhorou e retire a mudança que apagou detalhes."
+    ],
+    "molde": "Projeto: Verde Perto\nAula: Ajuste a cor preservando a planta\nCorreção: exposição e cor coerentes — <sua decisão>\nEstilo: intensidade controlada — <sua decisão>\nRevisão: folhas e textura preservadas — <sua decisão>\nArquivo ou projeto conferido: <nome real>\nAjuste necessário: <descreva ou nenhum>",
+    "pronto": "dois planos foram comparados e o ajuste escolhido preserva detalhes",
+    "confira": "Comparar ligado e desligado preservando textura, luz e diferenciação das folhas.",
+    "calma": "Se estiver em dúvida, guarde a versão mais leve. Você pode revisar o estilo depois que a montagem estiver clara.",
+    "q": "As folhas perderam textura depois do filtro. Qual decisão é melhor?",
+    "opcoes": [
+      "Manter a intensidade porque todas as cenas usam o filtro",
+      "Aplicar mais nitidez sem comparar com a imagem original",
+      "Reduzir a intensidade e comparar novamente com o original"
+    ],
+    "correta": 2,
+    "observacao": "Duas amostras de folha mostram acabamento moderado e exagerado como comparação conceitual. Não são medições de correção no aplicativo.",
+    "ex1": "Nanda aproxima os planos sem impor o mesmo número a todos.",
+    "ex2": "Jorge procura nervuras visíveis na folha antes de aprovar a cor.",
+    "tarefa": "Ajuste a cor preservando a planta",
+    "resumo": [
+      "Correção: exposição e cor coerentes",
+      "Estilo: intensidade controlada",
+      "Revisão: folhas e textura preservadas"
+    ],
+    "tempo_pratica": "Reserve cerca de 10 minutos de trabalho ativo para este recorte. Processamento fica fora desse tempo.",
+    "cartoes": [
+      [
+        "As folhas perderam textura depois do filtro. Qual decisão é melhor?",
+        "Reduzir a intensidade e comparar novamente com o original"
+      ],
+      [
+        "Qual decisão orienta esta etapa?",
+        "Comparar ligado e desligado preservando textura, luz e diferenciação das folhas."
+      ],
+      [
+        "Qual evidência encerra a prática?",
+        "dois planos foram comparados e o ajuste escolhido preserva detalhes"
+      ]
+    ]
+  },
+  {
+    "titulo": "Use a voz como estrutura do convite",
+    "entrega": "gravar e montar uma fala curta com música em segundo plano",
+    "dor": "Uma música bem escolhida ainda pode esconder palavras. Construa a peça a partir da mensagem que precisa ser ouvida.",
+    "antes": "Aumentar voz e música juntas quando a frase fica difícil.",
+    "depois": "Ouvir a voz isolada e recolocar as outras camadas sem encobrir palavras.",
+    "campos": [
+      "Voz: arquivo gravado e ouvido",
+      "Música: abaixo da fala",
+      "Efeitos: pontuais, com origem registrada"
+    ],
+    "passos": [
+      "Grave o convite ou uma versão própria, salve e ouça o arquivo.",
+      "Importe a voz, ajuste pausas e alinhe imagens pelo sentido das frases.",
+      "Acrescente música autorizada em volume menor. Reproduza e confira todas as palavras."
+    ],
+    "molde": "Projeto: Verde Perto\nAula: Use a voz como estrutura do convite\nVoz: arquivo gravado e ouvido — <sua decisão>\nMúsica: abaixo da fala — <sua decisão>\nEfeitos: pontuais, com origem registrada — <sua decisão>\nArquivo ou projeto conferido: <nome real>\nAjuste necessário: <descreva ou nenhum>",
+    "pronto": "existe uma fala gravada, montada e compreensível com a música escolhida",
+    "confira": "Ouvir a voz isolada e recolocar as outras camadas sem encobrir palavras.",
+    "calma": "Sem música autorizada, conclua primeiro a voz e mantenha a música pendente. Não use uma faixa cuja condição você desconhece.",
+    "q": "A fala perde clareza quando entra a música. O que testar primeiro?",
+    "opcoes": [
+      "Reduzir a música e comparar a fala isolada e acompanhada",
+      "Aumentar a voz ao máximo sem ouvir a faixa isolada",
+      "Trocar a música por outra mais cheia no mesmo volume"
+    ],
+    "correta": 0,
+    "observacao": "Uma faixa principal e duas faixas menores representam hierarquia sonora. O desenho não mostra valores de volume medidos.",
+    "ex1": "Nanda corta no fim de uma ideia antes de pensar na batida.",
+    "ex2": "Jorge ouve a peça em volume habitual para conferir as palavras.",
+    "tarefa": "Use a voz como estrutura do convite",
+    "resumo": [
+      "Voz: arquivo gravado e ouvido",
+      "Música: abaixo da fala",
+      "Efeitos: pontuais, com origem registrada"
+    ],
+    "tempo_pratica": "Reserve cerca de 10 minutos de trabalho ativo para este recorte. Processamento fica fora desse tempo.",
+    "cartoes": [
+      [
+        "A fala perde clareza quando entra a música. O que testar primeiro?",
+        "Reduzir a música e comparar a fala isolada e acompanhada"
+      ],
+      [
+        "Qual decisão orienta esta etapa?",
+        "Ouvir a voz isolada e recolocar as outras camadas sem encobrir palavras."
+      ],
+      [
+        "Qual evidência encerra a prática?",
+        "existe uma fala gravada, montada e compreensível com a música escolhida"
+      ]
+    ]
+  },
+  {
+    "titulo": "Monte quatro cortes guiados pelo pulso",
+    "entrega": "comparar montagem rítmica e montagem pelo sentido",
+    "dor": "Cortar em toda batida pode virar uma regra sem motivo. Use o pulso quando ele ajuda a organizar atenção.",
+    "antes": "Cortar todas as frases no meio para obedecer a cada batida.",
+    "depois": "Priorizar o sentido da mensagem e usar o pulso onde ele reforça a passagem.",
+    "campos": [
+      "Referências: quatro ataques reconhecidos",
+      "Cortes: relação ouvida, não só medida",
+      "Comparação: ritmo versus sentido da fala"
+    ],
+    "passos": [
+      "Crie uma cópia sem alterar a montagem narrada. Marque quatro ataques na música escolhida.",
+      "Ajuste os cortes e reproduza. Selecione itens relacionados e teste Agrupar ou Vincular no menu disponível. Mova e confira; registre indisponível se o comando não existir.",
+      "Compare com a versão narrada. Registre onde o pulso ajuda e onde atrapalha."
+    ],
+    "molde": "Projeto: Verde Perto\nAula: Monte quatro cortes guiados pelo pulso\nReferências: quatro ataques reconhecidos — <sua decisão>\nCortes: relação ouvida, não só medida — <sua decisão>\nComparação: ritmo versus sentido da fala — <sua decisão>\nArquivo ou projeto conferido: <nome real>\nAjuste necessário: <descreva ou nenhum>",
+    "pronto": "uma cópia rítmica foi reproduzida e comparada com a montagem narrada",
+    "confira": "Priorizar o sentido da mensagem e usar o pulso onde ele reforça a passagem.",
+    "calma": "Se não reconhecer quatro ataques, use palmas gravadas como referência de exercício. A música final pode ser escolhida depois.",
+    "q": "Uma batida cai no meio da palavra principal. Qual escolha preserva o convite?",
+    "opcoes": [
+      "Acelerar a fala inteira para fazer a palavra caber na batida",
+      "Manter a palavra e procurar um corte que preserve o sentido",
+      "Mover todas as legendas sem conferir a frase na voz"
+    ],
+    "correta": 1,
+    "observacao": "Quatro marcas sob quatro planos representam referências de pulso. Não são uma análise automática da música nem tempos obrigatórios.",
+    "ex1": "Nanda mantém uma cópia para comparar duas lógicas de corte.",
+    "ex2": "Jorge escolhe ouvir a frase inteira mesmo quando a batida sugere outra passagem.",
+    "tarefa": "Monte quatro cortes guiados pelo pulso",
+    "resumo": [
+      "Referências: quatro ataques reconhecidos",
+      "Cortes: relação ouvida, não só medida",
+      "Comparação: ritmo versus sentido da fala"
+    ],
+    "tempo_pratica": "Reserve cerca de 10 minutos de trabalho ativo para este recorte. Processamento fica fora desse tempo.",
+    "cartoes": [
+      [
+        "Uma batida cai no meio da palavra principal. Qual escolha preserva o convite?",
+        "Manter a palavra e procurar um corte que preserve o sentido"
+      ],
+      [
+        "Qual decisão orienta esta etapa?",
+        "Priorizar o sentido da mensagem e usar o pulso onde ele reforça a passagem."
+      ],
+      [
+        "Qual evidência encerra a prática?",
+        "uma cópia rítmica foi reproduzida e comparada com a montagem narrada"
+      ]
+    ]
+  },
+  {
+    "titulo": "Revise legendas palavra por palavra",
+    "entrega": "criar legendas sincronizadas e corrigir texto e leitura",
+    "dor": "Reconhecimento automático pode errar nomes e pontuação. Legenda pronta pelo programa ainda precisa de revisão.",
+    "antes": "Aprovar o texto automático porque as palavras aparecem na tela.",
+    "depois": "Conferir palavras, tempos e leitura no aparelho antes de manter o estilo.",
+    "campos": [
+      "Texto: nomes e pontuação revisados",
+      "Tempo: entrada e saída pela fala",
+      "Leitura: contraste e margens"
+    ],
+    "passos": [
+      "Gere legendas disponíveis ou escreva os blocos manualmente a partir da sua gravação.",
+      "Corrija cada palavra ouvindo a voz e ajuste os tempos dos blocos.",
+      "Reproduza sem som em tamanho reduzido. Confira a mensagem e simplifique o estilo se necessário."
+    ],
+    "molde": "Projeto: Verde Perto\nAula: Revise legendas palavra por palavra\nTexto: nomes e pontuação revisados — <sua decisão>\nTempo: entrada e saída pela fala — <sua decisão>\nLeitura: contraste e margens — <sua decisão>\nArquivo ou projeto conferido: <nome real>\nAjuste necessário: <descreva ou nenhum>",
+    "pronto": "todas as legendas foram comparadas à fala e conferidas sem som",
+    "confira": "Conferir palavras, tempos e leitura no aparelho antes de manter o estilo.",
+    "calma": "Legendas manuais são um caminho completo para esta prática. Não é necessário comprar reconhecimento automático para aprender sincronização.",
+    "q": "A legenda escreve outro nome no lugar de Verde Perto. O que fazer?",
+    "opcoes": [
+      "Manter o nome reconhecido porque a geração terminou",
+      "Aplicar o estilo a todos os blocos antes de ouvir",
+      "Corrigir o texto e conferir também o tempo do trecho"
+    ],
+    "correta": 2,
+    "observacao": "Dois blocos curtos de texto são colocados longe das bordas do quadro vertical. A imagem demonstra hierarquia, não transcrição automática realizada.",
+    "ex1": "Nanda revisa o nome da oficina antes de aplicar o estilo a todos os blocos.",
+    "ex2": "Jorge assiste sem som e verifica se entende o convite.",
+    "tarefa": "Revise legendas palavra por palavra",
+    "resumo": [
+      "Texto: nomes e pontuação revisados",
+      "Tempo: entrada e saída pela fala",
+      "Leitura: contraste e margens"
+    ],
+    "tempo_pratica": "Reserve cerca de 10 minutos de trabalho ativo para este recorte. Processamento fica fora desse tempo.",
+    "cartoes": [
+      [
+        "A legenda escreve outro nome no lugar de Verde Perto. O que fazer?",
+        "Corrigir o texto e conferir também o tempo do trecho"
+      ],
+      [
+        "Qual decisão orienta esta etapa?",
+        "Conferir palavras, tempos e leitura no aparelho antes de manter o estilo."
+      ],
+      [
+        "Qual evidência encerra a prática?",
+        "todas as legendas foram comparadas à fala e conferidas sem som"
+      ]
+    ]
+  },
+  {
+    "titulo": "Faça a revisão de imagem e som",
+    "entrega": "localizar e corrigir uma falha concreta antes de exportar",
+    "dor": "Assistir repetidamente sem um critério cansa e deixa erros passarem. Separe a revisão em três olhares.",
+    "antes": "Assistir várias vezes e mudar efeitos sem registrar o problema.",
+    "depois": "Anotar instante, causa provável e resultado da correção conferida.",
+    "campos": [
+      "Imagem: continuidade e leitura",
+      "Som: palavras e volume",
+      "Conjunto: sentido e sincronismo"
+    ],
+    "passos": [
+      "Assista sem som e anote um problema ou nenhum observado nos critérios de imagem.",
+      "Ouça o áudio e depois assista ao conjunto, registrando instantes específicos.",
+      "Corrija uma falha encontrada ou documente por que não há ajuste necessário. Reproduza o trecho conferido."
+    ],
+    "molde": "Projeto: Verde Perto\nAula: Faça a revisão de imagem e som\nImagem: continuidade e leitura — <sua decisão>\nSom: palavras e volume — <sua decisão>\nConjunto: sentido e sincronismo — <sua decisão>\nArquivo ou projeto conferido: <nome real>\nAjuste necessário: <descreva ou nenhum>",
+    "pronto": "a ficha contém três passagens e o resultado real da revisão",
+    "confira": "Anotar instante, causa provável e resultado da correção conferida.",
+    "calma": "Se não encontrar falha, registre os critérios conferidos. Revisar não significa alterar por obrigação.",
+    "q": "Qual anotação ajuda mais a corrigir a peça?",
+    "opcoes": [
+      "No segundo 8, o título sai antes de terminar a leitura",
+      "O vídeo precisa de mais efeitos para parecer terminado",
+      "A cor parece diferente, então todos os cortes estão errados"
+    ],
+    "correta": 0,
+    "observacao": "Três fichas de revisão representam imagem, som e conjunto. Uma lupa aponta um detalhe para lembrar que a correção precisa de evidência.",
+    "ex1": "Nanda anota o instante para reencontrar o problema rapidamente.",
+    "ex2": "Jorge separa erro técnico de preferência pessoal por um estilo.",
+    "tarefa": "Faça a revisão de imagem e som",
+    "resumo": [
+      "Imagem: continuidade e leitura",
+      "Som: palavras e volume",
+      "Conjunto: sentido e sincronismo"
+    ],
+    "tempo_pratica": "Reserve cerca de 10 minutos de trabalho ativo para este recorte. Processamento fica fora desse tempo.",
+    "cartoes": [
+      [
+        "Qual anotação ajuda mais a corrigir a peça?",
+        "No segundo 8, o título sai antes de terminar a leitura"
+      ],
+      [
+        "Qual decisão orienta esta etapa?",
+        "Anotar instante, causa provável e resultado da correção conferida."
+      ],
+      [
+        "Qual evidência encerra a prática?",
+        "a ficha contém três passagens e o resultado real da revisão"
+      ]
+    ]
+  },
+  {
+    "titulo": "Exporte e abra o arquivo final",
+    "entrega": "salvar uma versão vertical e conferir o arquivo fora do editor",
+    "dor": "Uma prévia correta não prova que a exportação está completa. O arquivo final precisa ser aberto e examinado.",
+    "antes": "Considerar concluído assim que o botão Exportar foi pressionado.",
+    "depois": "Abrir o arquivo salvo e conferir imagem, som, duração e dimensões fora do editor.",
+    "campos": [
+      "Saída: MP4 vertical, 1080 × 1920",
+      "Ritmo: 30 quadros por segundo no exercício",
+      "Evidência: arquivo aberto e conferido"
+    ],
+    "passos": [
+      "Exporte a versão revisada com nome Verde-Perto-final-v1.mp4 e confira os parâmetros disponíveis.",
+      "Abra o arquivo num reprodutor externo e assista por inteiro.",
+      "Registre duração, dimensões e resultado da revisão. Corrija e exporte de novo se houver falha."
+    ],
+    "molde": "Projeto: Verde Perto\nAula: Exporte e abra o arquivo final\nSaída: MP4 vertical, 1080 × 1920 — <sua decisão>\nRitmo: 30 quadros por segundo no exercício — <sua decisão>\nEvidência: arquivo aberto e conferido — <sua decisão>\nArquivo ou projeto conferido: <nome real>\nAjuste necessário: <descreva ou nenhum>",
+    "pronto": "existe um MP4 salvo, aberto fora do editor e conferido do início ao fim",
+    "confira": "Abrir o arquivo salvo e conferir imagem, som, duração e dimensões fora do editor.",
+    "calma": "Se a exportação falhar, a produção continua pendente. Guarde o aviso e resolva a causa sem declarar o arquivo concluído.",
+    "q": "A exportação terminou. Qual evidência ainda falta?",
+    "opcoes": [
+      "Confiar na prévia porque ela já foi assistida no editor",
+      "Abrir o arquivo final e conferir imagem, som e duração",
+      "Guardar o projeto como prova de que o MP4 está íntegro"
+    ],
+    "correta": 1,
+    "observacao": "Um arquivo final aparece ao lado das fontes e do projeto, em recipientes separados. A ilustração distingue entrega e materiais de edição.",
+    "ex1": "Nanda confere a pasta para não entregar uma versão de teste por engano.",
+    "ex2": "Jorge abre o MP4 no celular e percebe se a legenda continua legível.",
+    "tarefa": "Exporte e abra o arquivo final",
+    "resumo": [
+      "Saída: MP4 vertical, 1080 × 1920",
+      "Ritmo: 30 quadros por segundo no exercício",
+      "Evidência: arquivo aberto e conferido"
+    ],
+    "tempo_pratica": "Reserve cerca de 10 minutos de trabalho ativo para este recorte. Processamento fica fora desse tempo.",
+    "cartoes": [
+      [
+        "A exportação terminou. Qual evidência ainda falta?",
+        "Abrir o arquivo final e conferir imagem, som e duração"
+      ],
+      [
+        "Qual decisão orienta esta etapa?",
+        "Abrir o arquivo salvo e conferir imagem, som, duração e dimensões fora do editor."
+      ],
+      [
+        "Qual evidência encerra a prática?",
+        "existe um MP4 salvo, aberto fora do editor e conferido do início ao fim"
+      ]
+    ]
+  },
+  {
+    "titulo": "Prepare a publicação e o próximo projeto",
+    "entrega": "organizar uma entrega com legenda de publicação, créditos e cópia de segurança",
+    "dor": "Publicar o arquivo errado ou perder as fontes cria trabalho evitável. Feche o projeto com uma entrega identificável.",
+    "antes": "Enviar a primeira versão encontrada e inventar uma data para preencher a descrição.",
+    "depois": "Conferir versão, informações e créditos antes de preparar o rascunho de publicação.",
+    "campos": [
+      "Entrega: arquivo final e capa representativa",
+      "Texto: informações conferidas e créditos",
+      "Arquivo: projeto e fontes preservados"
+    ],
+    "passos": [
+      "Reúna o MP4 da aula anterior, uma capa aprovada e os créditos das fontes.",
+      "Escreva a descrição. Prepare um rascunho no destino ou numa ficha local, com data apenas se ela estiver confirmada.",
+      "Copie fontes e entrega para outro local e abra os arquivos copiados. Reabra o projeto local no CapCut. Registre separadamente se a cópia independente do projeto editável foi conferida ou está pendente."
+    ],
+    "molde": "Projeto: Verde Perto\nAula: Prepare a publicação e o próximo projeto\nEntrega: arquivo final e capa representativa — <sua decisão>\nTexto: informações conferidas e créditos — <sua decisão>\nArquivo: projeto e fontes preservados — <sua decisão>\nArquivo ou projeto conferido: <nome real>\nAjuste necessário: <descreva ou nenhum>\nCópia de fontes e entrega: <local e abertura conferida>\nProjeto local: <reabertura conferida>\nCópia independente editável: <conferida ou pendente; não confundir com MP4>",
+    "pronto": "a entrega e as fontes foram copiadas e abertas, o projeto local reabre e a proteção adicional tem estado registrado",
+    "confira": "Conferir versão, informações e créditos antes de preparar o rascunho de publicação.",
+    "calma": "A prática termina com uma entrega organizada. Publicação pública só acontece quando você decide e confere os dados reais.",
+    "q": "O agendamento não aparece na conta de destino. Qual caminho continua válido?",
+    "opcoes": [
+      "Marcar a postagem como concluída porque o arquivo foi exportado",
+      "Assumir que o editor enviará a peça sem confirmar a integração",
+      "Guardar um rascunho e publicar manualmente no momento definido"
+    ],
+    "correta": 2,
+    "observacao": "Cartões, calendário e disco externo representam entrega, planejamento e cópia dos arquivos. O conjunto é ilustrado; não comprova uma postagem nem uma cópia do projeto executada.",
+    "ex1": "Nanda identifica a versão final e preserva o projeto para futuras correções.",
+    "ex2": "Jorge confere as informações reais da oficina antes de publicar.",
+    "tarefa": "Prepare a publicação e o próximo projeto",
+    "resumo": [
+      "Entrega: arquivo final e capa representativa",
+      "Texto: informações conferidas e créditos",
+      "Arquivo: projeto e fontes preservados"
+    ],
+    "tempo_pratica": "Reserve cerca de 10 minutos de trabalho ativo para este recorte. Processamento fica fora desse tempo.",
+    "cartoes": [
+      [
+        "O agendamento não aparece na conta de destino. Qual caminho continua válido?",
+        "Guardar um rascunho e publicar manualmente no momento definido"
+      ],
+      [
+        "Qual decisão orienta esta etapa?",
+        "Conferir versão, informações e créditos antes de preparar o rascunho de publicação."
+      ],
+      [
+        "Qual evidência encerra a prática?",
+        "a entrega e as fontes foram copiadas e abertas, o projeto local reabre e a proteção adicional tem estado registrado"
+      ]
+    ]
+  }
+]

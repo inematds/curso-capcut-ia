@@ -1,0 +1,294 @@
+{
+  "slug": "capcut-ia",
+  "title": "CapCut para Criadores de Vídeo IA v6.2",
+  "modules": [
+    {
+      "title": "Abra um projeto que você consegue reencontrar",
+      "promise": "Organize fontes, reconheça a interface e monte uma primeira sequência vertical.",
+      "topics": [
+        {
+          "title": "Projeto é a montagem, fonte é o material",
+          "concept": "Projeto guarda escolhas de edição; os clipes são arquivos de origem. Crie a pasta Verde Perto com fontes, voz e entregas. Nanda, editora de 28 anos, ajuda Jorge, professor de 60 anos. Eles preparam um convite para uma oficina de jardinagem.",
+          "why": "Baixe e extraia o kit desta aula pelo aplicativo de arquivos. Há quatro clipes verticais silenciosos de cinco segundos. Foram feitos com imagens do Codex e movimento de aproximação. Não mostram ações filmadas nem crescimento real de plantas.",
+          "practice": "Repita o procedimento numa cópia, alterando somente uma escolha. Compare o resultado antes de manter a mudança.",
+          "caution": "Os nomes dos controles e a disponibilidade podem variar. Confira o recurso na sua versão antes de depender dele."
+        },
+        {
+          "title": "Abra o editor com um teste curto",
+          "concept": "No CapCut para computador, escolha Novo projeto ou Create project. Em Mídia, use Importar e selecione os quatro clipes. Nomeie o projeto Verde Perto. Procure o nome na tela inicial depois de voltar; abra novamente para confirmar que foi guardado.",
+          "why": "O curso usa o aplicativo de computador como referência. Celular e navegador podem oferecer controles diferentes. Se aparecer cobrança, identifique o recurso antes de continuar. Na aula 3, faremos uma exportação curta para conhecer a condição da sua conta.",
+          "practice": "Repita o procedimento numa cópia, alterando somente uma escolha. Compare o resultado antes de manter a mudança.",
+          "caution": "Os nomes dos controles e a disponibilidade podem variar. Confira o recurso na sua versão antes de depender dele."
+        },
+        {
+          "title": "Três áreas e uma seleção",
+          "concept": "A biblioteca reúne arquivos disponíveis. A prévia mostra o quadro no ponto atual. A linha do tempo organiza duração e ordem. Arraste cena-1 para a linha do tempo. Clique no clipe e observe o painel lateral com propriedades de vídeo.",
+          "why": "O painel de propriedades acompanha o item selecionado. Esse painel também pode ser chamado de inspector. Ao selecionar texto, aparecem controles de texto; ao selecionar áudio, controles sonoros. Antes de procurar um botão, confira o tipo de item destacado.",
+          "practice": "Repita o procedimento numa cópia, alterando somente uma escolha. Compare o resultado antes de manter a mudança.",
+          "caution": "Os nomes dos controles e a disponibilidade podem variar. Confira o recurso na sua versão antes de depender dele."
+        },
+        {
+          "title": "Camadas dizem o que aparece na frente",
+          "concept": "Adicione cena-2 acima da primeira faixa e alinhe os inícios. A imagem superior normalmente cobre a inferior. Reduza sua escala no painel Vídeo, Básico ou Transformar, conforme a versão. A camada de baixo passa a aparecer nas bordas.",
+          "why": "Escala muda o tamanho dentro do quadro; proporção define a forma do quadro inteiro. Não confunda os dois. Depois do teste, retire a sobreposição e mantenha os dois clipes em sequência. Use Desfazer se o resultado fugir do esperado.",
+          "practice": "Repita o procedimento numa cópia, alterando somente uma escolha. Compare o resultado antes de manter a mudança.",
+          "caution": "Os nomes dos controles e a disponibilidade podem variar. Confira o recurso na sua versão antes de depender dele."
+        },
+        {
+          "title": "Quadro e sequência",
+          "concept": "Na área de proporção da prévia, selecione 9:16. Coloque cena-1, cena-2, cena-3 e cena-4 em sequência. Os arquivos do kit já são verticais. Reproduza os vinte segundos e procure espaços vazios entre os clipes.",
+          "why": "A sequência vai de um vaso ao material, passa pelo detalhe e termina no conjunto. Isso é uma proposta de apresentação, não demonstração de plantio. Se usar clipes próprios, escolha planos que ajudem o público a entender o mesmo convite.",
+          "practice": "Repita o procedimento numa cópia, alterando somente uma escolha. Compare o resultado antes de manter a mudança.",
+          "caution": "Os nomes dos controles e a disponibilidade podem variar. Confira o recurso na sua versão antes de depender dele."
+        },
+        {
+          "title": "Enquadrar é escolher o que permanece",
+          "concept": "Para adaptar outra proporção, selecione o clipe e ajuste escala e posição. Preencher o quadro pode cortar bordas. Observe o assunto durante todo o trecho, principalmente se houver movimento. Não estique a imagem para fingir que ela tem outra forma.",
+          "why": "Anote 1080 por 1920 como alvo de saída. A quantidade de quadros por segundo será conferida na exportação. Os clipes do kit têm trinta quadros por segundo; manter esse valor evita uma conversão sem motivo neste exercício. Para o teste, clique em Exportar. Escolha um nome e uma pasta que consiga localizar. Se disponíveis, selecione MP4, 1080p e trinta quadros por segundo. Confira os avisos e confirme. Aguarde terminar e abra o arquivo salvo.",
+          "practice": "Repita o procedimento numa cópia, alterando somente uma escolha. Compare o resultado antes de manter a mudança.",
+          "caution": "Os nomes dos controles e a disponibilidade podem variar. Confira o recurso na sua versão antes de depender dele."
+        }
+      ]
+    },
+    {
+      "title": "Corte, duração e movimento",
+      "promise": "Divida clipes, experimente congelamento e reversão, e controle aproximações com dois pontos.",
+      "topics": [
+        {
+          "title": "O indicador marca o momento do corte",
+          "concept": "Leve o indicador de reprodução até o ponto desejado. Selecione o clipe e use Dividir, normalmente representado por uma lâmina. A ação cria duas partes na montagem. Exclua apenas a parte indesejada e reproduza a passagem.",
+          "why": "Arrastar a borda do clipe encurta sua duração na linha do tempo. A fonte original permanece na pasta. Para recuperar um trecho, estenda a borda quando houver material disponível ou use Desfazer. Não apague o arquivo da pasta para encurtar a montagem.",
+          "practice": "Repita o procedimento numa cópia, alterando somente uma escolha. Compare o resultado antes de manter a mudança.",
+          "caution": "Os nomes dos controles e a disponibilidade podem variar. Confira o recurso na sua versão antes de depender dele."
+        },
+        {
+          "title": "Atalhos vêm depois do gesto",
+          "concept": "Abra a lista de atalhos do seu CapCut e procure Dividir e aparar à esquerda ou à direita do indicador. Q e W aparecem em alguns mapas. Confira o comando real da sua versão antes de usá-los. O botão visível continua sendo um caminho válido.",
+          "why": "Após excluir, observe se os clipes seguintes se aproximaram automaticamente. A atração da faixa e o fechamento de espaços variam com a configuração. Confira também títulos e áudio: uma montagem sem buraco ainda pode perder sincronismo.",
+          "practice": "Repita o procedimento numa cópia, alterando somente uma escolha. Compare o resultado antes de manter a mudança.",
+          "caution": "Os nomes dos controles e a disponibilidade podem variar. Confira o recurso na sua versão antes de depender dele."
+        },
+        {
+          "title": "Congelar abre espaço para entender",
+          "concept": "Selecione um clipe e posicione o indicador no quadro desejado. Procure Congelar ou Freeze. O editor cria um trecho parado; ajuste a duração pela borda. Use cerca de um segundo para experimentar, sem tratar esse valor como regra universal.",
+          "why": "Uma pausa pode dar tempo para ler um convite. No kit, a planta já vem de uma imagem animada. Congelar interrompe a aproximação; não revela movimento real da folha. Observe se a parada parece intencional ou se parece uma falha.",
+          "practice": "Repita o procedimento numa cópia, alterando somente uma escolha. Compare o resultado antes de manter a mudança.",
+          "caution": "Os nomes dos controles e a disponibilidade podem variar. Confira o recurso na sua versão antes de depender dele."
+        },
+        {
+          "title": "Reverter muda a direção do tempo",
+          "concept": "Duplique um trecho curto e aplique Reverter ou Reverse. Aguarde o processamento. No kit, a aproximação vira afastamento. Em material filmado, líquidos, fumaça e gestos podem denunciar a inversão. Confira também o som antes de manter a versão.",
+          "why": "Se a ferramenta oferecer exportar quadro estático na prévia, salve uma imagem para referência. Confira o formato e a resolução disponíveis. Se não houver esse comando, use uma captura apenas como anotação; ela não substitui um quadro de qualidade para entrega.",
+          "practice": "Repita o procedimento numa cópia, alterando somente uma escolha. Compare o resultado antes de manter a mudança.",
+          "caution": "Os nomes dos controles e a disponibilidade podem variar. Confira o recurso na sua versão antes de depender dele."
+        },
+        {
+          "title": "Dois estados definem a mudança",
+          "concept": "Um quadro-chave, ou keyframe, guarda o valor de uma propriedade num instante. Selecione o clipe. No início, procure o losango ao lado de Escala no painel Vídeo. Marque o valor atual. Leve o indicador adiante e aumente pouco a escala.",
+          "why": "Confira se apareceu um segundo losango. Reproduza o intervalo: a escala deve mudar entre os dois pontos. Se tudo ficou grande desde o início, provavelmente você alterou um valor sem criar o segundo ponto. Desfaça e confira os marcadores.",
+          "practice": "Repita o procedimento numa cópia, alterando somente uma escolha. Compare o resultado antes de manter a mudança.",
+          "caution": "Os nomes dos controles e a disponibilidade podem variar. Confira o recurso na sua versão antes de depender dele."
+        },
+        {
+          "title": "Movimento precisa de margem",
+          "concept": "Use uma aproximação pequena e observe folhas, vaso e espaço do texto. Os clipes do kit já têm movimento; uma segunda aproximação pode exagerar. Para um teste limpo, use a imagem estática incluída no kit e estenda sua duração na montagem.",
+          "why": "Uma curva de suavização, quando disponível, muda a aceleração entre os pontos. Primeiro confira a versão simples. Não some tremor, zoom e entrada animada antes de saber qual movimento resolve a atenção desejada.",
+          "practice": "Repita o procedimento numa cópia, alterando somente uma escolha. Compare o resultado antes de manter a mudança.",
+          "caution": "Os nomes dos controles e a disponibilidade podem variar. Confira o recurso na sua versão antes de depender dele."
+        }
+      ]
+    },
+    {
+      "title": "Fundo, máscara e velocidade",
+      "promise": "Escolha o recorte adequado e experimente mudanças de tempo sem confundir o público.",
+      "topics": [
+        {
+          "title": "Cada método depende da imagem",
+          "concept": "Chroma key remove uma cor selecionada. Funciona melhor quando o fundo tem cor uniforme e difere do assunto. No painel de vídeo, procure Remover fundo e Chroma key. Escolha a cor com o conta-gotas e ajuste intensidade observando as bordas.",
+          "why": "No kit, o fundo não é uniforme; chroma key não é a primeira escolha. Remoção automática tenta reconhecer o assunto. Recorte personalizado permite corrigir uma região, quando disponível. Esses recursos podem depender da versão ou do plano.",
+          "practice": "Repita o procedimento numa cópia, alterando somente uma escolha. Compare o resultado antes de manter a mudança.",
+          "caution": "Os nomes dos controles e a disponibilidade podem variar. Confira o recurso na sua versão antes de depender dele."
+        },
+        {
+          "title": "Confira sobre um fundo contrastante",
+          "concept": "Para testar a borda, coloque uma cor ou imagem diferente na faixa inferior. Aplique a separação numa cópia curta. Veja folhas, vãos, sombra e base do vaso. Se partes importantes desaparecerem, reduza a intensidade ou retorne à imagem inteira.",
+          "why": "Não aprove apenas um quadro. Reproduza o trecho para procurar bordas que tremem. Se o recurso não existir na sua conta, use o plano inteiro e registre essa escolha. O objetivo é decidir um caminho viável, não comprar uma função para concluir a aula.",
+          "practice": "Repita o procedimento numa cópia, alterando somente uma escolha. Compare o resultado antes de manter a mudança.",
+          "caution": "Os nomes dos controles e a disponibilidade podem variar. Confira o recurso na sua versão antes de depender dele."
+        },
+        {
+          "title": "Máscara limita a área visível",
+          "concept": "Coloque uma cópia do clipe numa faixa superior. Selecione essa cópia e procure Máscara no painel de vídeo. Escolha uma forma simples, como retângulo ou círculo. Ajuste tamanho e posição para mostrar só a região desejada.",
+          "why": "A máscara não reconhece necessariamente o contorno da planta. Ela revela uma área definida pela forma. Para comparar detalhe e conjunto, mostre uma janela do detalhe sobre uma imagem mais aberta. Preserve espaço entre a janela e o assunto principal.",
+          "practice": "Repita o procedimento numa cópia, alterando somente uma escolha. Compare o resultado antes de manter a mudança.",
+          "caution": "Os nomes dos controles e a disponibilidade podem variar. Confira o recurso na sua versão antes de depender dele."
+        },
+        {
+          "title": "Suavidade é uma escolha de borda",
+          "concept": "O controle de suavização da borda, chamado feather em algumas versões, torna a transição menos marcada. Use pouco para um recorte legível. Suavizar demais pode apagar o limite e criar uma mancha. Observe a janela no tamanho de um celular.",
+          "why": "Se animar, confira o que está selecionado: a máscara ou a transformação do vídeo. Mover uma não é sempre mover o outro. Faça primeiro uma janela estática. Movimento adicional só entra quando ajuda a comparação.",
+          "practice": "Repita o procedimento numa cópia, alterando somente uma escolha. Compare o resultado antes de manter a mudança.",
+          "caution": "Os nomes dos controles e a disponibilidade podem variar. Confira o recurso na sua versão antes de depender dele."
+        },
+        {
+          "title": "Velocidade também muda duração",
+          "concept": "Selecione uma cópia curta e procure Velocidade. No modo normal, um valor maior acelera e encurta o trecho. Um valor menor desacelera e alonga. Reproduza e confira a duração resultante na linha do tempo.",
+          "why": "O kit contém aproximações sobre imagens. Acelerar muda esse movimento, sem criar uma ação nova. Para avaliar um gesto filmado, use um clipe próprio autorizado. Câmera lenta em material com poucos quadros pode parecer irregular.",
+          "practice": "Repita o procedimento numa cópia, alterando somente uma escolha. Compare o resultado antes de manter a mudança.",
+          "caution": "Os nomes dos controles e a disponibilidade podem variar. Confira o recurso na sua versão antes de depender dele."
+        },
+        {
+          "title": "Curvas distribuem a mudança no tempo",
+          "concept": "No modo Curva, quando disponível, escolha personalização e ajuste poucos pontos. Crie um trecho normal, um trecho mais rápido e retorno ao normal. A curva controla velocidade; ela não corrige o conteúdo da imagem. Compare com a versão constante.",
+          "why": "Mudanças de duração deslocam os cortes seguintes. Reconfira voz, música e títulos depois do teste. Recursos de suavização podem exigir processamento ou plano específico. Se o resultado tremer, reduza a mudança ou mantenha velocidade normal.",
+          "practice": "Repita o procedimento numa cópia, alterando somente uma escolha. Compare o resultado antes de manter a mudança.",
+          "caution": "Os nomes dos controles e a disponibilidade podem variar. Confira o recurso na sua versão antes de depender dele."
+        }
+      ]
+    },
+    {
+      "title": "Texto, cor e efeitos",
+      "promise": "Acrescente informação legível e acabamento consistente, mantendo a montagem compreensível.",
+      "topics": [
+        {
+          "title": "O lugar da mudança importa",
+          "concept": "Transição liga dois planos. Animação controla entrada, saída ou comportamento de um item. Efeito altera a aparência durante um trecho. Para testar uma transição, abra Transições e aplique uma opção simples à junção de dois clipes.",
+          "why": "Reproduza antes e depois do ponto. Uma transição longa pode consumir o momento importante das duas cenas. Primeiro compare com corte direto. Nem toda passagem precisa de efeito para ser compreendida.",
+          "practice": "Repita o procedimento numa cópia, alterando somente uma escolha. Compare o resultado antes de manter a mudança.",
+          "caution": "Os nomes dos controles e a disponibilidade podem variar. Confira o recurso na sua versão antes de depender dele."
+        },
+        {
+          "title": "Experimente um elemento de cada vez",
+          "concept": "Abra Texto e adicione um texto padrão provisório. Escreva Verde Perto e selecione essa faixa. Em Animação, teste uma entrada curta. Numa cópia de clipe, abra Efeitos e aplique uma opção breve. Ajuste a duração pela faixa correspondente, conforme a versão. Retire o que não ajuda a atenção. Confira marcas de recurso pago antes de depender dele.",
+          "why": "Tremor, chamado shake em alguns menus, pode pontuar impacto. Neste convite tranquilo, ele talvez contradiga o clima. Adesivos também são elementos de informação ou decoração: escolha um motivo e confira se não cobre folha, rosto ou texto.",
+          "practice": "Repita o procedimento numa cópia, alterando somente uma escolha. Compare o resultado antes de manter a mudança.",
+          "caution": "Os nomes dos controles e a disponibilidade podem variar. Confira o recurso na sua versão antes de depender dele."
+        },
+        {
+          "title": "Uma mensagem por momento",
+          "concept": "Abra Texto e adicione um texto padrão. Escreva um título curto: Verde Perto. Na saída, use um convite como Conheça a oficina. Ajuste duração pelas bordas da faixa de texto. Não mantenha duas mensagens concorrentes sem necessidade.",
+          "why": "Escolha uma fonte legível e contraste com o fundo. Se as folhas variam muito de cor, use uma caixa discreta atrás do texto. Evite encostar nas bordas, onde os controles da plataforma podem cobrir a mensagem. A área segura varia conforme o destino.",
+          "practice": "Repita o procedimento numa cópia, alterando somente uma escolha. Compare o resultado antes de manter a mudança.",
+          "caution": "Os nomes dos controles e a disponibilidade podem variar. Confira o recurso na sua versão antes de depender dele."
+        },
+        {
+          "title": "Leia no tamanho de uso",
+          "concept": "Reduza a prévia ou abra a exportação de teste no celular. Leia sem pausar. Se faltar tempo, encurte o texto ou amplie sua permanência. Não tente resolver tudo diminuindo o tamanho das letras.",
+          "why": "Copiar estilo pode poupar trabalho. No menu do item, procure copiar e colar atributos ou propriedades, conforme a versão. Confira o que será transferido. Se não houver o comando, duplique o título e troque apenas o texto, revisando tempo e posição.",
+          "practice": "Repita o procedimento numa cópia, alterando somente uma escolha. Compare o resultado antes de manter a mudança.",
+          "caution": "Os nomes dos controles e a disponibilidade podem variar. Confira o recurso na sua versão antes de depender dele."
+        },
+        {
+          "title": "Corrigir e estilizar são decisões diferentes",
+          "concept": "Correção procura coerência de exposição, cor e contraste. Estilo acrescenta uma intenção visual. Selecione o clipe e abra Ajustes. Comece com uma mudança pequena de brilho ou exposição, observando folhas claras e sombras do vaso.",
+          "why": "Depois compare temperatura e saturação entre planos. Não use um valor universal para qualquer imagem. A iluminação dos quatro arquivos varia intencionalmente. Aproximar não significa torná-los idênticos; preserve a sensação de luz natural.",
+          "practice": "Repita o procedimento numa cópia, alterando somente uma escolha. Compare o resultado antes de manter a mudança.",
+          "caution": "Os nomes dos controles e a disponibilidade podem variar. Confira o recurso na sua versão antes de depender dele."
+        },
+        {
+          "title": "Uma camada pode afetar vários planos",
+          "concept": "Se sua versão oferecer camada de ajuste, coloque-a acima dos trechos desejados e confira sua duração. Ela aplica uma escolha compartilhada. Ajustes específicos de um plano continuam precisando de revisão individual. Um filtro único também pode servir como teste de unidade.",
+          "why": "Reduza a intensidade do filtro e compare ligado e desligado. Observe se folhas continuam distinguíveis e se o vaso preserva textura. Não aplique nitidez ou alta definição como tentativa automática de resolver enquadramento ruim.",
+          "practice": "Repita o procedimento numa cópia, alterando somente uma escolha. Compare o resultado antes de manter a mudança.",
+          "caution": "Os nomes dos controles e a disponibilidade podem variar. Confira o recurso na sua versão antes de depender dele."
+        }
+      ]
+    },
+    {
+      "title": "Voz, pulso e legendas",
+      "promise": "Organize som, experimente cortes no ritmo e revise texto sincronizado com a fala.",
+      "topics": [
+        {
+          "title": "Grave uma fala que caiba",
+          "concept": "Use o gravador do celular ou a gravação do editor. Para este exercício: Um pouco de verde muda o jeito de olhar a casa. Na Verde Perto, você aprende a começar. Conheça a oficina. Grave num lugar tranquilo e ouça antes de importar.",
+          "why": "Coloque a voz abaixo da imagem na linha do tempo. Corte pausas excessivas sem comer o começo das palavras. Ajuste os planos ao sentido das frases. Se a fala não couber, encurte o texto ou aumente a montagem; não acelere até perder clareza.",
+          "practice": "Repita o procedimento numa cópia, alterando somente uma escolha. Compare o resultado antes de manter a mudança.",
+          "caution": "Os nomes dos controles e a disponibilidade podem variar. Confira o recurso na sua versão antes de depender dele."
+        },
+        {
+          "title": "Música e efeitos apoiam a mensagem",
+          "concept": "Adicione uma música própria ou autorizada numa faixa separada. Reduza o volume enquanto a pessoa fala. Se houver controle de volume por pontos, crie uma descida antes da voz e uma subida depois. Como alternativa, divida a música e ajuste volumes com entradas suaves.",
+          "why": "Um efeito breve pode marcar uma mudança de plano. Se o início estalar, use uma entrada curta de volume e escute novamente. Não corte todo o ataque se ele identifica o som. Registre fontes e créditos. O curso de áudio oferece um kit com condições de uso documentadas.",
+          "practice": "Repita o procedimento numa cópia, alterando somente uma escolha. Compare o resultado antes de manter a mudança.",
+          "caution": "Os nomes dos controles e a disponibilidade podem variar. Confira o recurso na sua versão antes de depender dele."
+        },
+        {
+          "title": "Escute antes de marcar",
+          "concept": "Numa cópia, use música instrumental autorizada. Ouça quatro inícios de batidas graves, com som baixo e forte, fáceis de reconhecer; eles funcionam como pontos de referência. Marque os tempos com marcadores, se disponíveis, ou anote os instantes. A forma de onda ajuda a localizar, mas a escuta decide.",
+          "why": "Ajuste o fim de cada um dos quatro planos perto desses pontos. O quarto ponto marca o fim da sequência. Reproduza sem olhar os números. Um corte pode funcionar um pouco antes ou depois do ataque. O objetivo é uma sensação de relação, não precisão numérica isolada.",
+          "practice": "Repita o procedimento numa cópia, alterando somente uma escolha. Compare o resultado antes de manter a mudança.",
+          "caution": "Os nomes dos controles e a disponibilidade podem variar. Confira o recurso na sua versão antes de depender dele."
+        },
+        {
+          "title": "Vínculo e velocidade exigem revisão",
+          "concept": "Para mover itens juntos, selecione os clipes que precisam manter a relação. Use seleção múltipla e procure Agrupar ou Vincular no menu desses itens. Mova o conjunto e reproduza imagem e som. Confira o comportamento na sua versão: selecionar juntos não garante preservar todas as relações. Se o comando não existir, registre o teste como pendente.",
+          "why": "Para uma mudança rápida de velocidade, use um pequeno pico e retorno próximo de um ponto musical. Compare sem o efeito. Não copie propriedades cegamente: enquadramentos diferentes podem exigir valores diferentes. Um tremor curto é opcional, não requisito de ritmo.",
+          "practice": "Repita o procedimento numa cópia, alterando somente uma escolha. Compare o resultado antes de manter a mudança.",
+          "caution": "Os nomes dos controles e a disponibilidade podem variar. Confira o recurso na sua versão antes de depender dele."
+        },
+        {
+          "title": "Gere a partir da fala ou escreva manualmente",
+          "concept": "Com a voz montada, abra Legendas ou Texto e procure Legendas automáticas. Escolha português e a fonte de áudio correspondente. Gere quando o recurso estiver disponível na sua conta. Se não estiver, crie blocos de texto manualmente e ajuste os tempos pela escuta.",
+          "why": "Ouça cada trecho acompanhando a legenda. Corrija Verde Perto, palavras omitidas e pontuação. Divida blocos longos em unidades que façam sentido. Duas linhas curtas costumam facilitar o primeiro teste, mas a leitura real decide o tamanho.",
+          "practice": "Repita o procedimento numa cópia, alterando somente uma escolha. Compare o resultado antes de manter a mudança.",
+          "caution": "Os nomes dos controles e a disponibilidade podem variar. Confira o recurso na sua versão antes de depender dele."
+        },
+        {
+          "title": "Estilo não substitui sincronismo",
+          "concept": "Aplique fonte legível e contraste consistente. Confira se o bloco entra junto da fala e sai após a ideia. Estilos que destacam palavras, chamados karaokê em algumas opções, dependem da ferramenta. Use somente se a marcação acompanhar as palavras corretamente.",
+          "why": "Reproduza no celular e observe controles sobrepostos. Confira também o vídeo sem som: a mensagem deve continuar compreensível. Se o destaque animado distrair, mantenha legenda simples. Revise novamente depois de mudar a duração de um clipe ou da voz.",
+          "practice": "Repita o procedimento numa cópia, alterando somente uma escolha. Compare o resultado antes de manter a mudança.",
+          "caution": "Os nomes dos controles e a disponibilidade podem variar. Confira o recurso na sua versão antes de depender dele."
+        }
+      ]
+    },
+    {
+      "title": "Finalize e entregue um arquivo conferido",
+      "promise": "Revise a montagem completa, exporte com parâmetros claros e prepare uma publicação responsável.",
+      "topics": [
+        {
+          "title": "Três passagens com perguntas diferentes",
+          "concept": "Primeiro, assista à imagem sem som. Procure buracos, cortes estranhos, textos cobertos e plantas fora do quadro. Depois, ouça o áudio sem acompanhar a imagem. Confira palavras, ruídos e mudanças bruscas de volume. Por fim, assista ao conjunto.",
+          "why": "Anote instantes e problemas concretos. Em vez de ficou ruim, escreva título sai antes de terminar a leitura. Se não encontrar defeito, registre nenhum observado naquele critério. Não invente uma falha para preencher a ficha.",
+          "practice": "Repita o procedimento numa cópia, alterando somente uma escolha. Compare o resultado antes de manter a mudança.",
+          "caution": "Os nomes dos controles e a disponibilidade podem variar. Confira o recurso na sua versão antes de depender dele."
+        },
+        {
+          "title": "Corrija uma causa de cada vez",
+          "concept": "Duplique a versão antes de uma mudança grande. Corrija o problema mais importante e reproduza seu entorno. Ajustar a duração de um título pode exigir revisar a legenda próxima. Alterar velocidade pode deslocar a entrada da música.",
+          "why": "Compare a correção com a versão anterior. Não acrescente um efeito para esconder um erro de sequência. A revisão final inclui fontes autorizadas, texto correto e ausência de elementos pagos inesperados. Uma peça simples e clara já pode estar completa.",
+          "practice": "Repita o procedimento numa cópia, alterando somente uma escolha. Compare o resultado antes de manter a mudança.",
+          "caution": "Os nomes dos controles e a disponibilidade podem variar. Confira o recurso na sua versão antes de depender dele."
+        },
+        {
+          "title": "Escolha parâmetros pelo destino",
+          "concept": "Abra Exportar e confira o nome e a pasta. Para o exercício, escolha MP4, H.264 quando disponível, 1080 por 1920 e trinta quadros por segundo. Esses valores acompanham os clipes do kit e o formato vertical definido no projeto.",
+          "why": "Resolução indica dimensões; codec descreve como o vídeo foi comprimido. Aumentar para 4K não recupera detalhes que a fonte não possui. Se uma opção não estiver disponível, confira a versão e escolha uma saída compatível, registrando a diferença.",
+          "practice": "Repita o procedimento numa cópia, alterando somente uma escolha. Compare o resultado antes de manter a mudança.",
+          "caution": "Os nomes dos controles e a disponibilidade podem variar. Confira o recurso na sua versão antes de depender dele."
+        },
+        {
+          "title": "Confirme o resultado fora da montagem",
+          "concept": "Antes de confirmar, observe avisos de recurso pago. O tamanho 1080p sozinho não garante exportação gratuita quando há itens de assinatura no projeto. Remova ou substitua o item indicado, ou use seu acesso autorizado. Aguarde a exportação terminar.",
+          "why": "Abra o MP4 no reprodutor do sistema. Confira começo, meio, fim, voz e legendas. Veja duração e dimensões nas informações do arquivo. Guarde o projeto editável e as fontes; o MP4 final não permite recuperar todas as camadas de edição.",
+          "practice": "Repita o procedimento numa cópia, alterando somente uma escolha. Compare o resultado antes de manter a mudança.",
+          "caution": "Os nomes dos controles e a disponibilidade podem variar. Confira o recurso na sua versão antes de depender dele."
+        },
+        {
+          "title": "Entregue um conjunto pequeno e claro",
+          "concept": "Separe MP4 final, texto de publicação e créditos das fontes. Escreva uma descrição curta que diga o que a oficina oferece e como saber mais. No exemplo fictício, não invente data, endereço ou promessa de resultado. Para uso real, confira esses dados com o responsável.",
+          "why": "Escolha uma capa a partir de um quadro aprovado ou de uma imagem própria. Ela deve representar a peça. Se usar um quadro exportado, confira sua qualidade. Não trate uma captura pequena da tela como arquivo de impressão ou capa de alta resolução.",
+          "practice": "Repita o procedimento numa cópia, alterando somente uma escolha. Compare o resultado antes de manter a mudança.",
+          "caution": "Os nomes dos controles e a disponibilidade podem variar. Confira o recurso na sua versão antes de depender dele."
+        },
+        {
+          "title": "Agendar depende da conta de destino",
+          "concept": "Use o agendamento disponível na plataforma onde a peça será publicada, quando sua conta oferecer esse recurso. Confira fuso, data, público e prévia. Não presuma que todo CapCut publica ou agenda diretamente para qualquer rede. Salvar um rascunho é uma alternativa válida.",
+          "why": "Copie fontes, MP4, capa e créditos para outra unidade ou pasta protegida. Abra os arquivos copiados. No CapCut, reabra o projeto local e confira as camadas. Isso confirma o projeto local, não uma cópia independente dele.",
+          "practice": "Para proteger também o projeto editável, procure Salvar na nuvem ou envio para Space no menu do projeto. Confira acesso, espaço e custo. Aguarde concluir; reabra por Space e confira camadas e fontes. Se não conseguir, registre a proteção do projeto editável como pendente. Não apague o original.",
+          "caution": "A cópia independente do projeto editável é uma etapa adicional. O MP4 não substitui suas camadas. Não declare proteção concluída sem testar a reabertura da cópia."
+        }
+      ]
+    }
+  ]
+}

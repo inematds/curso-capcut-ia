@@ -1,0 +1,2 @@
+# Kit Verde Perto
+Quatro imagens sintéticas criadas com o recurso image_gen do Codex em 25/09/2026. Cada imagem recebeu aproximação de 100% a 110% no HyperFrames 0.8.75. Vídeos silenciosos: 5 segundos, 1080×1920, 30 quadros por segundo, H.264. Não mostram ação filmada ou crescimento real. Material didático original disponibilizado pelo INEMA.CLUB para os exercícios e sua adaptação. Não inclui música, voz, interface do CapCut ou material privado de terceiros. Preserve esta nota para identificar a origem sintética.
