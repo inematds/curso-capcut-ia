@@ -1,3 +1,3 @@
 # Estado atual
 
-18 aulas autorais, 18 ilustrações Codex e capa; quatro clipes de exercício com imagens também Codex. Auditoria das 18 aulas e motor de 26 comportamentos aprovados. Leitura simulada de todas as aulas >=9 após correções. Publicação em preparação, portal ficha295.
+Conteúdo 1.1.0, formato OSWork v6.2. Edições completas em PT/EN/ES. Tradução com GPT-6 Luna nativo Codex; sem API externa. Catálogos em i18n/, montagem offline em scripts/. Evidências em validacao-i18n.md.
